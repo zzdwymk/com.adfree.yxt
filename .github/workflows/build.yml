@@ -52,7 +52,7 @@ jobs:
           files: yxt-adfree.apk
           name: ${{ github.ref_name }}
           body: |
-            易校通去广告 LSPosed 模块
+            乐校通去广告 LSPosed 模块
             - 移除开屏/插屏/信息流/banner 全部广告
             - 拦截日志(类型/广告位/联盟/域名)、自动清理、导出 txt
             - 莫奈动态主题、隐藏图标、可从 LSPosed 打开
