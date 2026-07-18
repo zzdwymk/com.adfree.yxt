@@ -1,4 +1,4 @@
-# 易校通去广告(YXTAdFree)
+# 乐校通去广告(YXTAdFree)
 
 一个 **LSPosed / Xposed 模块**,移除易校通(`client.android.yixiaotong`)App 内的全部广告。
 
