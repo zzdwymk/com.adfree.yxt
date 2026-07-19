@@ -2,7 +2,6 @@
 
 一个 **LSPosed / Xposed 模块**,移除乐校通(`client.android.yixiaotong`)App 内的全部广告。
 
-> 版本更新见 [更新日志 CHANGELOG](CHANGELOG.md)。
 
 ## 功能
 
